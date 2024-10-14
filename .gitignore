@@ -1,0 +1,67 @@
+# ASP.NET Core
+
+# Ignore the bin and obj folders (compiled output)
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding folder
+.razor/
+
+# Local History for Visual Studio
+.vs/
+
+# Rider project files
+.idea/
+
+# Logs
+*.log
+
+# Visual Studio Code folders
+.vscode/
+
+# Backup files
+*.bak
+*.swp
+
+# NuGet Packages
+**/packages/
+!**/packages/build/
+!**/packages/repositories.config
+
+# .NET Core build artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Angular
+
+# Angular generated files
+dist/
+node_modules/
+
+# Compiled output
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+src/environments/environment*.ts
+
+# Angular build cache
+.angular/
+
+# IDE specific
+.idea/
+.vscode/
+*.swp
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
